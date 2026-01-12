@@ -1,0 +1,39 @@
+ .h5-heading {
+     color: rgb(119, 202, 237);
+
+ }
+
+ .hero-btn {
+     border: 2px solid rgb(119, 202, 237);
+     padding: 11px 28px;
+     border-radius: 50px;
+     font-size: 18px;
+     color: white;
+
+ }
+
+ .hero {
+     padding: 80px 15px;
+
+ }
+
+ .hero-img {
+     width: 260px;
+     max-width: 100%;
+     background: transparent;
+ }
+
+ .hero-text {
+     max-width: 600px;
+     margin: auto;
+     background: transparent;
+ }
+
+ .highlight {
+     color: #77caed;
+ }
+
+ .hero-btn:hover {
+     box-shadow: 0 0 25px rgba(0, 188, 212, 0.3);
+     border-color: #00bcd4;
+ }

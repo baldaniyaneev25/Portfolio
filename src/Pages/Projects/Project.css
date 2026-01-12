@@ -1,0 +1,35 @@
+.project-card {
+    position: relative;
+    border: 2px solid rgb(119, 202, 237);
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.project-card img {
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+}
+
+.overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: 0.3s;
+}
+
+.project-card:hover .overlay {
+    opacity: 1;
+}
+
+.overlay a {
+    color: white;
+    border: 2px solid #77caed;
+    padding: 10px 22px;
+    border-radius: 30px;
+    text-decoration: none;
+}

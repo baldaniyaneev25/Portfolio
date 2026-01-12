@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Croissant+One&family=Delius&family=Delius+Swash+Caps&family=Domine:wght@400..700&family=DynaPuff:wght@400..700&family=Emilys+Candy&family=Fascinate&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Jost:ital,wght@0,100..900;1,100..900&family=Kapakana:wght@300..400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Leckerli+One&family=Limelight&family=M+PLUS+Rounded+1c&family=Madimi+One&family=Meow+Script&family=Monoton&family=Mozilla+Headline:wght@200..700&family=Mystery+Quest&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&family=Outfit:wght@100..900&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@100..900&family=TASA+Orbiter:wght@400..800&family=Winky+Rough:ital,wght@0,300..900;1,300..900&family=Zalando+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+
+
+.custom-navbar {
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(10px);
+}
+
+.logo {
+    font-family: Poppins;
+    font-weight: 700;
+    color: #4fc3f7;
+    letter-spacing: 2px;
+}
+
+.logo:hover {
+    color: white;
+}
+
+.contact-btn {
+    border: 2px solid #77caed;
+    padding: 8px 20px;
+    border-radius: 30px;
+    background: transparent;
+    color: white;
+}
+
+.contact-btn:hover {
+    box-shadow: 0 0 25px rgba(0, 188, 212, 0.3);
+    border-color: #00bcd4;
+}
+
+
+.nav-link:hover {
+    box-shadow: 0 0 25px rgba(0, 188, 212, 0.3);
+    border-color: #00bcd4;
+
+}

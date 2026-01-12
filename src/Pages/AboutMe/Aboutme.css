@@ -1,0 +1,27 @@
+.Aboutme-btn {
+    border: 2px solid rgb(119, 202, 237);
+    padding: 10px 28px;
+    border-radius: 50px;
+    font-size: 18px;
+    color: white;
+}
+
+
+
+.get-about {
+    position: relative;
+    bottom: 5px;
+    color: rgb(119, 202, 237);
+}
+
+.about-text {
+    max-width: 800px;
+    margin: auto;
+    line-height: 1.7;
+}
+
+.Aboutme-btn:hover {
+
+    box-shadow: 0 0 25px rgba(0, 188, 212, 0.3);
+    border-color: #00bcd4;
+}
