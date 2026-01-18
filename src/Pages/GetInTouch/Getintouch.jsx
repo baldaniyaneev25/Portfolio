@@ -8,7 +8,7 @@ const Getintouch = () => {
 
 
 
-      <form action="https://formsubmit.co/baldaniyaneev81@gmail.com" method="POST" id='contact' className="contact-form mt-5 pt-5 mb-5 pb-5" >
+      <form className="contact-form mt-5 pt-5 mb-5 pb-5" >
         <h1 className='text-center ' >Get In Touch</h1>
         <p className='text-center' style={{ color: " rgb(119, 202, 237)" }}>Let's work together</p>
         <input type="text " name="name" className='mt-4' placeholder="Full Name" />

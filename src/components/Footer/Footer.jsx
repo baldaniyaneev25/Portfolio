@@ -4,7 +4,7 @@ import "../Footer/Footer.css"
 const Footer = () => {
   return (
     <>
-      <div className="container">
+      <div id="footer" className="container">
         <div className="row">
           <div className="col mt-5 pt-5 ">
             <div className="l-1 d-flex">
@@ -13,11 +13,7 @@ const Footer = () => {
 
             </div>
             <hr />
-            <div className="copyright">
-              <i class="fa-regular fa-copyright"></i> 2026 all rights reserved.
 
-
-            </div>
 
           </div>
         </div>

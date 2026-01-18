@@ -38,7 +38,7 @@ const Navbar = () => {
                         </li>
 
                         <li className="nav-item ms-5">
-                            <a className="nav-link text-light" href="/resume/Neev_Frontend_CV.pdf" download
+                            <a className="nav-link text-light" href="/resume/Neev__CV.pdf" download
                                 target="_blank"
                                 rel="noopener noreferrer">Resume</a>
                         </li>

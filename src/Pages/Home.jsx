@@ -7,9 +7,12 @@ import Projects from "../Pages/Projects/Projects"
 import Getintouch from "../Pages/GetInTouch/Getintouch"
 import Skills from './Skills/Skills'
 
+
 const Home = () => {
     return (
         <>
+
+
             <Navbar />
             <Hero />
             <Skills />

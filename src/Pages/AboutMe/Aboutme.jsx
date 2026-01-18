@@ -16,7 +16,9 @@ const Aboutme = () => {
 
             <p className='mt-4'>I am motivated, detail-oriented, and always excited to work on  real-world  projects.  My goal is <br /> to grow as a developer while contributing to impactful and  meaningful applications.</p>
 
-            <button className='Aboutme-btn mt-3'>Download Resume</button>
+            <button className='Aboutme-btn mt-3'>                             <a className="nav-link text-light" href="/resume/Neev__CV.pdf" download
+              target="_blank"
+              rel="noopener noreferrer">Download Resume </a></button>
 
           </div>
         </div>
